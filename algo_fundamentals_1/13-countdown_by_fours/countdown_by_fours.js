@@ -1,0 +1,1 @@
+// print positive numbers starting at 2020, counting down by fours (exclude 0), WITHOUT a for loop.
