@@ -1,0 +1,1 @@
+// your function will receive an array with 2 numbers.  Print the first value, and return the 2nd.
